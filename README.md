@@ -61,8 +61,7 @@ Run all unit tests:
 python -m unittest discover tests/
 
 
-## 👩‍💻 Author
+Student: Usman Jamil
 Module: CPS7002B
 Course: MSc Software Engineering
-University: [Your University Name]
-
+University: ST Mary's University, Twickenham London
