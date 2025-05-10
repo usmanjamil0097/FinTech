@@ -1,0 +1,36 @@
+{
+    "customers": [
+        {
+            "customer_id": "1",
+            "name": "ayesha",
+            "email": "ayesha@gmail.com",
+            "phone": "3333",
+            "address": "dfc",
+            "status": "ACTIVE",
+            "interaction_logs": [],
+            "accounts": [
+                {
+                    "account_number": "ACC1",
+                    "account_type": "SAVINGS",
+                    "balance": 0.0
+                }
+            ]
+        },
+        {
+            "customer_id": "2",
+            "name": "laiba",
+            "email": "laiba@gmail.com",
+            "phone": "3555",
+            "address": "dfc",
+            "status": "ACTIVE",
+            "interaction_logs": [],
+            "accounts": [
+                {
+                    "account_number": "ACC2",
+                    "account_type": "SAVINGS",
+                    "balance": 0.0
+                }
+            ]
+        }
+    ]
+}
